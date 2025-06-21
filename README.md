@@ -11,7 +11,7 @@
   <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://img.icons8.com/?size=256&id=20909&format=png" /></a>
   <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://img.icons8.com/?size=256&id=21278&format=png" /></a>
   <a href="#"><img align="left" alt="JS" title="JS" width="21px" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" /></a>
- 
+  <a href="#"><img align="left" alt="PYTHON" title="JS" width="21px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a> 
   <br>
   <br>
   
